@@ -1,0 +1,486 @@
+﻿{
+  "status": "success",
+  "count": 60,
+  "data": [
+    {
+      "icao_code": "ZSPD",
+      "airport_name": "上海浦东",
+      "latitude": 31.1433,
+      "longitude": 121.8052,
+      "daily_pax_base": 232861,
+      "daily_slot_limit": 1526
+    },
+    {
+      "icao_code": "ZGGG",
+      "airport_name": "广州白云",
+      "latitude": 23.3925,
+      "longitude": 113.2988,
+      "daily_pax_base": 228994,
+      "daily_slot_limit": 1508
+    },
+    {
+      "icao_code": "ZBAA",
+      "airport_name": "北京首都",
+      "latitude": 40.0801,
+      "longitude": 116.5845,
+      "daily_pax_base": 193815,
+      "daily_slot_limit": 1211
+    },
+    {
+      "icao_code": "ZGSZ",
+      "airport_name": "深圳宝安",
+      "latitude": 22.6392,
+      "longitude": 113.8106,
+      "daily_pax_base": 182151,
+      "daily_slot_limit": 1227
+    },
+    {
+      "icao_code": "ZUTF",
+      "airport_name": "成都天府",
+      "latitude": 30.3275,
+      "longitude": 104.4372,
+      "daily_pax_base": 155306,
+      "daily_slot_limit": 1050
+    },
+    {
+      "icao_code": "ZBAD",
+      "airport_name": "北京大兴",
+      "latitude": 39.5097,
+      "longitude": 116.4105,
+      "daily_pax_base": 146901,
+      "daily_slot_limit": 947
+    },
+    {
+      "icao_code": "ZSHC",
+      "airport_name": "杭州萧山",
+      "latitude": 30.2294,
+      "longitude": 120.4344,
+      "daily_pax_base": 138243,
+      "daily_slot_limit": 902
+    },
+    {
+      "icao_code": "ZSSS",
+      "airport_name": "上海虹桥",
+      "latitude": 31.1978,
+      "longitude": 121.3362,
+      "daily_pax_base": 137400,
+      "daily_slot_limit": 774
+    },
+    {
+      "icao_code": "ZUCK",
+      "airport_name": "重庆江北",
+      "latitude": 29.7192,
+      "longitude": 106.6416,
+      "daily_pax_base": 137245,
+      "daily_slot_limit": 920
+    },
+    {
+      "icao_code": "ZPPP",
+      "airport_name": "昆明长水",
+      "latitude": 25.1019,
+      "longitude": 102.9291,
+      "daily_pax_base": 136180,
+      "daily_slot_limit": 933
+    },
+    {
+      "icao_code": "ZLXY",
+      "airport_name": "西安咸阳",
+      "latitude": 34.4471,
+      "longitude": 108.7515,
+      "daily_pax_base": 132974,
+      "daily_slot_limit": 922
+    },
+    {
+      "icao_code": "ZUUU",
+      "airport_name": "成都双流",
+      "latitude": 30.5785,
+      "longitude": 103.9471,
+      "daily_pax_base": 91832,
+      "daily_slot_limit": 609
+    },
+    {
+      "icao_code": "ZSNJ",
+      "airport_name": "南京禄口",
+      "latitude": 31.742,
+      "longitude": 118.862,
+      "daily_pax_base": 85967,
+      "daily_slot_limit": 644
+    },
+    {
+      "icao_code": "ZHHH",
+      "airport_name": "武汉天河",
+      "latitude": 30.7837,
+      "longitude": 114.2081,
+      "daily_pax_base": 85861,
+      "daily_slot_limit": 601
+    },
+    {
+      "icao_code": "ZGHA",
+      "airport_name": "长沙黄花",
+      "latitude": 28.1891,
+      "longitude": 113.2196,
+      "daily_pax_base": 82886,
+      "daily_slot_limit": 563
+    },
+    {
+      "icao_code": "ZSAM",
+      "airport_name": "厦门高崎",
+      "latitude": 24.544,
+      "longitude": 118.1277,
+      "daily_pax_base": 79982,
+      "daily_slot_limit": 544
+    },
+    {
+      "icao_code": "ZHCC",
+      "airport_name": "郑州新郑",
+      "latitude": 34.5196,
+      "longitude": 113.8409,
+      "daily_pax_base": 79978,
+      "daily_slot_limit": 609
+    },
+    {
+      "icao_code": "ZWWW",
+      "airport_name": "乌鲁木齐天山",
+      "latitude": 43.9071,
+      "longitude": 87.4742,
+      "daily_pax_base": 79944,
+      "daily_slot_limit": 534
+    },
+    {
+      "icao_code": "ZSQD",
+      "airport_name": "青岛胶东",
+      "latitude": 36.2661,
+      "longitude": 120.0864,
+      "daily_pax_base": 73689,
+      "daily_slot_limit": 528
+    },
+    {
+      "icao_code": "ZJHK",
+      "airport_name": "海口美兰",
+      "latitude": 19.9348,
+      "longitude": 110.4589,
+      "daily_pax_base": 73564,
+      "daily_slot_limit": 507
+    },
+    {
+      "icao_code": "ZYTX",
+      "airport_name": "沈阳桃仙",
+      "latitude": 41.6398,
+      "longitude": 123.4833,
+      "daily_pax_base": 68323,
+      "daily_slot_limit": 450
+    },
+    {
+      "icao_code": "ZYHB",
+      "airport_name": "哈尔滨太平",
+      "latitude": 45.6234,
+      "longitude": 126.2503,
+      "daily_pax_base": 67536,
+      "daily_slot_limit": 445
+    },
+    {
+      "icao_code": "ZUGY",
+      "airport_name": "贵阳龙洞堡",
+      "latitude": 26.5385,
+      "longitude": 106.8007,
+      "daily_pax_base": 62278,
+      "daily_slot_limit": 435
+    },
+    {
+      "icao_code": "ZJSY",
+      "airport_name": "三亚凤凰",
+      "latitude": 18.3029,
+      "longitude": 109.4122,
+      "daily_pax_base": 62152,
+      "daily_slot_limit": 383
+    },
+    {
+      "icao_code": "ZSJN",
+      "airport_name": "济南遥墙",
+      "latitude": 36.8571,
+      "longitude": 117.2159,
+      "daily_pax_base": 55698,
+      "daily_slot_limit": 397
+    },
+    {
+      "icao_code": "ZBTJ",
+      "airport_name": "天津滨海",
+      "latitude": 39.1243,
+      "longitude": 117.3461,
+      "daily_pax_base": 54416,
+      "daily_slot_limit": 402
+    },
+    {
+      "icao_code": "ZYTL",
+      "airport_name": "大连周水子",
+      "latitude": 38.9656,
+      "longitude": 121.5386,
+      "daily_pax_base": 54212,
+      "daily_slot_limit": 393
+    },
+    {
+      "icao_code": "ZYCC",
+      "airport_name": "长春龙嘉",
+      "latitude": 43.9962,
+      "longitude": 125.6852,
+      "daily_pax_base": 48655,
+      "daily_slot_limit": 323
+    },
+    {
+      "icao_code": "ZLLL",
+      "airport_name": "兰州中川",
+      "latitude": 36.5167,
+      "longitude": 103.6215,
+      "daily_pax_base": 48588,
+      "daily_slot_limit": 345
+    },
+    {
+      "icao_code": "ZSNB",
+      "airport_name": "宁波栎社",
+      "latitude": 29.8266,
+      "longitude": 121.4619,
+      "daily_pax_base": 44179,
+      "daily_slot_limit": 310
+    },
+    {
+      "icao_code": "ZSFZ",
+      "airport_name": "福州长乐",
+      "latitude": 25.935,
+      "longitude": 119.6632,
+      "daily_pax_base": 44156,
+      "daily_slot_limit": 307
+    },
+    {
+      "icao_code": "ZBYN",
+      "airport_name": "太原武宿",
+      "latitude": 37.7468,
+      "longitude": 112.6288,
+      "daily_pax_base": 39927,
+      "daily_slot_limit": 293
+    },
+    {
+      "icao_code": "ZGNN",
+      "airport_name": "南宁吴圩",
+      "latitude": 22.6082,
+      "longitude": 108.1724,
+      "daily_pax_base": 36992,
+      "daily_slot_limit": 268
+    },
+    {
+      "icao_code": "ZGSD",
+      "airport_name": "珠海金湾",
+      "latitude": 22.0063,
+      "longitude": 113.376,
+      "daily_pax_base": 36308,
+      "daily_slot_limit": 253
+    },
+    {
+      "icao_code": "ZSWZ",
+      "airport_name": "温州龙湾",
+      "latitude": 27.9122,
+      "longitude": 120.8519,
+      "daily_pax_base": 35776,
+      "daily_slot_limit": 256
+    },
+    {
+      "icao_code": "ZBHH",
+      "airport_name": "呼和浩特白塔",
+      "latitude": 40.8508,
+      "longitude": 111.8246,
+      "daily_pax_base": 34856,
+      "daily_slot_limit": 305
+    },
+    {
+      "icao_code": "ZSOF",
+      "airport_name": "合肥新桥",
+      "latitude": 31.9902,
+      "longitude": 116.9772,
+      "daily_pax_base": 34643,
+      "daily_slot_limit": 266
+    },
+    {
+      "icao_code": "ZBSJ",
+      "airport_name": "石家庄正定",
+      "latitude": 38.2806,
+      "longitude": 114.6972,
+      "daily_pax_base": 32915,
+      "daily_slot_limit": 234
+    },
+    {
+      "icao_code": "ZSCN",
+      "airport_name": "南昌昌北",
+      "latitude": 28.8659,
+      "longitude": 115.8999,
+      "daily_pax_base": 32701,
+      "daily_slot_limit": 252
+    },
+    {
+      "icao_code": "ZSWX",
+      "airport_name": "无锡硕放",
+      "latitude": 31.4944,
+      "longitude": 120.4294,
+      "daily_pax_base": 30048,
+      "daily_slot_limit": 226
+    },
+    {
+      "icao_code": "ZGOW",
+      "airport_name": "揭阳潮汕",
+      "latitude": 23.5496,
+      "longitude": 116.505,
+      "daily_pax_base": 28023,
+      "daily_slot_limit": 222
+    },
+    {
+      "icao_code": "ZLIC",
+      "airport_name": "银川河东",
+      "latitude": 38.3211,
+      "longitude": 106.393,
+      "daily_pax_base": 27015,
+      "daily_slot_limit": 206
+    },
+    {
+      "icao_code": "ZSQZ",
+      "airport_name": "泉州晋江",
+      "latitude": 24.7963,
+      "longitude": 118.5895,
+      "daily_pax_base": 24253,
+      "daily_slot_limit": 171
+    },
+    {
+      "icao_code": "ZPLJ",
+      "airport_name": "丽江三义",
+      "latitude": 26.6728,
+      "longitude": 100.2458,
+      "daily_pax_base": 23647,
+      "daily_slot_limit": 171
+    },
+    {
+      "icao_code": "ZSYT",
+      "airport_name": "烟台蓬莱",
+      "latitude": 37.6601,
+      "longitude": 119.9708,
+      "daily_pax_base": 22017,
+      "daily_slot_limit": 187
+    },
+    {
+      "icao_code": "ZLXN",
+      "airport_name": "西宁曹家堡",
+      "latitude": 36.5276,
+      "longitude": 102.0401,
+      "daily_pax_base": 21583,
+      "daily_slot_limit": 173
+    },
+    {
+      "icao_code": "ZPJH",
+      "airport_name": "西双版纳嘎洒",
+      "latitude": 21.9722,
+      "longitude": 100.7594,
+      "daily_pax_base": 21128,
+      "daily_slot_limit": 150
+    },
+    {
+      "icao_code": "ZGKL",
+      "airport_name": "桂林两江",
+      "latitude": 25.2181,
+      "longitude": 110.0392,
+      "daily_pax_base": 17820,
+      "daily_slot_limit": 130
+    },
+    {
+      "icao_code": "ZULS",
+      "airport_name": "拉萨贡嘎",
+      "latitude": 29.2977,
+      "longitude": 90.9122,
+      "daily_pax_base": 17218,
+      "daily_slot_limit": 142
+    },
+    {
+      "icao_code": "ZWSH",
+      "airport_name": "喀什徕宁",
+      "latitude": 39.5428,
+      "longitude": 76.0201,
+      "daily_pax_base": 14338,
+      "daily_slot_limit": 114
+    },
+    {
+      "icao_code": "ZSCG",
+      "airport_name": "常州奔牛",
+      "latitude": 31.916,
+      "longitude": 119.778,
+      "daily_pax_base": 14080,
+      "daily_slot_limit": 135
+    },
+    {
+      "icao_code": "ZSYA",
+      "airport_name": "扬州泰州",
+      "latitude": 32.5606,
+      "longitude": 119.717,
+      "daily_pax_base": 11407,
+      "daily_slot_limit": 130
+    },
+    {
+      "icao_code": "ZSNT",
+      "airport_name": "南通兴东",
+      "latitude": 32.07,
+      "longitude": 120.9763,
+      "daily_pax_base": 11402,
+      "daily_slot_limit": 104
+    },
+    {
+      "icao_code": "ZSXZ",
+      "airport_name": "徐州观音",
+      "latitude": 34.0583,
+      "longitude": 117.5552,
+      "daily_pax_base": 11185,
+      "daily_slot_limit": 95
+    },
+    {
+      "icao_code": "ZPDL",
+      "airport_name": "大理凤仪",
+      "latitude": 25.6496,
+      "longitude": 100.3183,
+      "daily_pax_base": 10275,
+      "daily_slot_limit": 88
+    },
+    {
+      "icao_code": "ZSYW",
+      "airport_name": "义乌",
+      "latitude": 29.3444,
+      "longitude": 120.0322,
+      "daily_pax_base": 10094,
+      "daily_slot_limit": 77
+    },
+    {
+      "icao_code": "ZWYN",
+      "airport_name": "伊犁伊宁",
+      "latitude": 43.9555,
+      "longitude": 81.3204,
+      "daily_pax_base": 9465,
+      "daily_slot_limit": 90
+    },
+    {
+      "icao_code": "ZHYC",
+      "airport_name": "宜昌三峡",
+      "latitude": 30.5514,
+      "longitude": 111.4758,
+      "daily_pax_base": 9331,
+      "daily_slot_limit": 209
+    },
+    {
+      "icao_code": "ZGHZ",
+      "airport_name": "惠州平潭",
+      "latitude": 23.0489,
+      "longitude": 114.5989,
+      "daily_pax_base": 9219,
+      "daily_slot_limit": 70
+    },
+    {
+      "icao_code": "ZUMY",
+      "airport_name": "绵阳南郊",
+      "latitude": 31.4283,
+      "longitude": 104.7416,
+      "daily_pax_base": 9003,
+      "daily_slot_limit": 523
+    }
+  ]
+}
